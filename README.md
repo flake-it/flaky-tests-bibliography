@@ -1,4 +1,4 @@
-# flake-it/bibliography
+# A Survey of Causes, Consequences, and Strategies for Addressing Flaky Tests: Bibliography
 
 This repository contains a BibTeX file for papers related to the field of Flaky Tests. It was created by Owain Parry, Michael Hilton, Gregory M. Kapfhammer and Phil McMinn.  
 
