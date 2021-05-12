@@ -24,7 +24,7 @@ pdflatex bibliography.tex
 Alternatively, you can use the repository as a git submodule of another repository. To do this, type the following command:
 
 ```shell
-git submodule add https://github.com/flake-it/bibliography.git bibliography
+git submodule add https://github.com/flake-it/flaky-tests-bibliography.git bibliography
 ```
 
 where the final parameter ("bibtex") is the name of the directory that you wish to install the repository. Following this, you will need to invoke the following commands:
