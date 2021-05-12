@@ -1,0 +1,126 @@
+###############
+# BUILD FILES #
+###############
+bibliography.pdf
+
+##############
+# FILESYSTEM #
+##############
+.DS_Store
+.vscode
+
+##################################
+# LATEX TEMPORARY FILES AND LOGS #
+##################################
+*.aux
+*.fdb_latex
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.dvi
+
+##########
+# BIBTEX #
+##########
+*.bbl
+*.blg
+
+##########
+# LaTeX #
+##########
+*.lof
+*.lot
+*.out
+*.toc
+*_minted*
+
+##########
+## Bibliography auxiliary files (bibtex/biblatex/biber):
+######################
+*.bcf
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+######################
+## Build tool auxiliary files:
+######################
+*.fdb_latexmk
+*.pdfsync
+*.synctex.gz(busy)
+
+######################
+# algorithms
+######################
+*.alg
+*.loa
+
+######################
+# theorems
+######################
+*.thm
+
+######################
+# beamer
+######################
+*.nav
+*.snm
+*.vrb
+
+######################
+# glossaries
+######################
+*.acn
+*.acr
+*.glg
+*.glo
+*.gls
+
+######################
+# hyperref
+######################
+*.brf
+
+######################
+# listings
+######################
+*.lol
+
+######################
+# makeidx
+######################
+*.idx
+*.ilg
+*.ind
+*.ist
+
+######################
+# minitoc
+######################
+*.maf
+*.mtc
+*.mtc0
+
+######################
+# minted
+######################
+*.pyg
+
+######################
+# nomencl
+######################
+*.nlo
+
+##########
+# R #
+##########
+.Rapp.history
+
+#################
+# PROJ-SPECIFIC #
+#################
+*.tdo
+*.swp
+*.xml
