@@ -1,6 +1,6 @@
 # A Survey of Causes, Consequences, and Strategies for Addressing Flaky Tests: Bibliography
 
-This repository contains a BibTeX file for papers related to the field of Flaky Tests. It was created by Owain Parry, Michael Hilton, Gregory M. Kapfhammer and Phil McMinn.  
+This repository contains a BibTeX file containing the 76 studies examined in A Survey of Causes, Consequences, and Strategies for Addressing Flaky Tests. It was created by Owain Parry, Michael Hilton, Gregory M. Kapfhammer and Phil McMinn.  
 
 You are free to use any of the entries in this file if you are interested in citing one of these research papers in your own LaTeX document.
 
@@ -9,7 +9,7 @@ You are free to use any of the entries in this file if you are interested in cit
 You can type the following command if you want to clone this repository:
 
 ```shell
-git clone https://github.com/flake-it/bibliography.git
+git clone https://github.com/flake-it/flaky-tests-bibliography.git
 ```
 
 Now, you can type `cd schemaanalyst-bibliography` and use the BibTeX file in your own LaTeX project. Alternatively, a document that cites all of the entries in this bibliography can be compiled on an Ubuntu 16.04 LTS workstation using `pdflatex` and `bibtex`; you may also compile to a PDF file using a wide variety of other tools, such as `latexmk`. You can type the following commands to create the summary document.
