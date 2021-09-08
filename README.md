@@ -1,6 +1,6 @@
-# A Survey of Causes, Consequences, and Strategies for Addressing Flaky Tests: Bibliography
+# A Survey of Flaky Tests: Bibliography
 
-This repository contains a BibTeX file containing the 76 studies examined in A Survey of Causes, Consequences, and Strategies for Addressing Flaky Tests. It was created by Owain Parry, Michael Hilton, Gregory M. Kapfhammer and Phil McMinn.  
+This repository contains a BibTeX file containing the 76 studies examined in A Survey of Flaky Tests. It was created by Owain Parry, Michael Hilton, Gregory M. Kapfhammer and Phil McMinn.  
 
 You are free to use any of the entries in this file if you are interested in citing one of these research papers in your own LaTeX document.
 
